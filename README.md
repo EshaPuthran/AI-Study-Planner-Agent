@@ -216,7 +216,10 @@ GEMINI_API_KEY=your_actual_gemini_api_key_here
 ---
 
 ## 👥 16. Contributors
-- [Your Name/Team Name] - *Lead Developer*
+- Team Name : CogniCrew
+- Member 1 : Esha P Puthran
+- Member 2 : Diya P Shetty
+- Member 3 : Disha Naveen
 
 ---
 
