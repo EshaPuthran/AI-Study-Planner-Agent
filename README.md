@@ -190,6 +190,7 @@ GEMINI_API_KEY=your_actual_gemini_api_key_here
 |:---:|
 |<img width="1918" height="861" alt="image" src="https://github.com/user-attachments/assets/73a82970-a889-41a5-8317-f6b107e1f325" /><img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/77c48a86-4220-41ca-9ec2-3fc0e4d357d5" /><img width="1918" height="860" alt="image" src="https://github.com/user-attachments/assets/655689e2-c33a-4c1a-ac06-025e994f637c" /> |
 
+
 | Study Planner|
 |:---:|
 |<img width="1918" height="848" alt="image" src="https://github.com/user-attachments/assets/08e12516-1238-43f4-9f37-129298ba0065" />|
@@ -198,6 +199,8 @@ GEMINI_API_KEY=your_actual_gemini_api_key_here
 | MCP Developer Panel |
 |:---:|
 | <img width="1918" height="905" alt="image" src="https://github.com/user-attachments/assets/b77cd0a0-42b9-401d-a8be-56ae0f8ced8c" /> |
+
+
 | AI Quiz Generator |
 |:---:|
 |<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/3e728fe2-82c2-46d0-8f96-283de9c151de" />|
