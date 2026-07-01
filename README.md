@@ -211,3 +211,7 @@ GEMINI_API_KEY=your_actual_gemini_api_key_here
 
 ## 📄 17. License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+## 🌐 Live Demo
+*Application Link:https://ai-study-planner-agent-vvyfxxp3q59oy87l3mavzr.streamlit.app/
