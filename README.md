@@ -203,7 +203,7 @@ GEMINI_API_KEY=your_actual_gemini_api_key_here
 
 | AI Quiz Generator |
 |:---:|
-|<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/3e728fe2-82c2-46d0-8f96-283de9c151de" />|
+|<img width="1600" height="897" alt="image" src="https://github.com/user-attachments/assets/332fea0b-e49c-4633-a34d-2c876eb27711" />|
 
 ---
 
